@@ -8,5 +8,8 @@ namespace ConsoleBasedProject
 {
     internal class login
     {
+        public string username;
+        public string password;
+        
     }
 }
