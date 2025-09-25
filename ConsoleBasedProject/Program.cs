@@ -10,7 +10,7 @@ namespace ConsoleBasedProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Worldd!");
             Console.ReadLine();//supaya tidak langsung close
         }
     }
