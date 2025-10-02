@@ -11,7 +11,7 @@ namespace ConsoleBasedProject
         static void Main(string[] args)
         {
             Console.WriteLine("=== BILANGAN GANJIL 1 - 50 ===\n");
-        int i = 1; // mulai dari 1 karena bilangan ganjil pertama adalah 1
+            int i = 1; // mulai dari 1 karena bilangan ganjil pertama adalah 1
             do
             {
                 Console.Write($"{i} "); // cetak bilangan ganjil
